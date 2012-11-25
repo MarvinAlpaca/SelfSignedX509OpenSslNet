@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SelfSignedX509OpenSslNet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="caCertificateFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\OpenSSL-Win32\bin\ca.cer</Value>
+    </Setting>
+    <Setting Name="caPrivateKeyFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\OpenSSL-Win32\bin\capkey.key</Value>
+    </Setting>
+    <Setting Name="csrFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\OpenSSL-Win32\bin\csr.csr</Value>
+    </Setting>
+    <Setting Name="csrPrivateKeyFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\openssl.net\pkey.key</Value>
+    </Setting>
+    <Setting Name="csrPrivateKeyPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="caPrivateKeyPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">caPassword</Value>
+    </Setting>
+    <Setting Name="SignedCertificateFileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\openssl.net\new cert.cer</Value>
+    </Setting>
+    <Setting Name="OpenSslConfigurationFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OpenSSL.cnf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
