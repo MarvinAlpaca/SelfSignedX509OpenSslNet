@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfSignedX509OpenSslNet", "SelfSignedX509OpenSslNet\SelfSignedX509OpenSslNet.csproj", "{FC5987AC-CAE5-4E66-840A-2D1F9F5AF2A2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62BFFB37-F2D0-48F7-9DDA-F39E0C39DD21}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
